@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#689F38</color>
+    <color name="colorPrimaryDark">#689F38</color>
+    <color name="colorPrimaryLight">#8BC34A</color>
+    <color name="colorAccent">#FF5722</color>
+
+    <color name="TextPrimary">#212121</color>
+    <color name="TextSecond">#707070</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBackground">#FAFAFA</color>
+
+    <color name="colorBackgroundBlack">#FAFAFA</color>
+
+    <color name="colorPrince">#FFA000</color>
+
+    <color name="buttonPrimary">@color/colorPrimaryLight</color>
+</resources>
+
